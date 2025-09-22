@@ -1,5 +1,47 @@
-# Vue 3 + TypeScript + Vite
+# 💱 PrestaMype
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> Plataforma web para conversión de divisas (USD/PEN) con las mejores tasas de cambio en tiempo real para Perú.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=vue.js&logoColor=white)
+
+## 📋 Descripción
+
+PrestaMype es una aplicación web moderna que permite a los usuarios consultar y convertir entre dólares estadounidenses (USD) y soles peruanos (PEN) utilizando tasas de cambio actualizadas en tiempo real. La plataforma está diseñada con un enfoque mobile-first y ofrece una experiencia de usuario fluida y elegante.
+
+### ✨ Características principales
+
+- 🔄 **Conversión bidireccional** USD ⇄ PEN
+- 📊 **Tasas en tiempo real** con precios de compra y venta
+- 📱 **Diseño responsive** optimizado para móviles y desktop
+- 🎨 **Interfaz moderna** con animaciones suaves
+- 🔔 **Sistema de notificaciones** para feedback del usuario
+- ⚡ **Rendimiento optimizado** con Vite y Vue 3
+- 🎯 **TypeScript** para mayor robustez del código
+
+## 🚀 Inicio rápido
+
+### Prerrequisitos
+
+Asegúrate de tener instalado en tu sistema:
+
+- **Node.js** (versión 18 o superior) - [Descargar aquí](https://nodejs.org/)
+- **npm** (incluido con Node.js) o **yarn**
+- **Git** - [Descargar aquí](https://git-scm.com/)
+
+### 📦 Instalación
+
+1. **Clona el repositorio**
+   ```bash
+   git clone https://github.com/leonardoarrieta30/Prestamype.git
+   cd Prestamype
+2. **Instala las dependencias**
+   ```bash
+   npm install 
+4. **Inicia el servidor**
+   ```bash
+   npm run dev
+
