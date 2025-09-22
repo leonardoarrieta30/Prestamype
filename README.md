@@ -45,3 +45,5 @@ Asegúrate de tener instalado en tu sistema:
    ```bash
    npm run dev
 
+### Aplicación
+   https://shiny-taffy-3bd7c3.netlify.app/
